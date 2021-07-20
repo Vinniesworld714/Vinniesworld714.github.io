@@ -1,7 +1,5 @@
 /*
-	Strata by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Strata 
 */
 
 (function($) {
@@ -108,7 +106,7 @@
 					usePopupCaption: false,
 					usePopupDefaultStyling: false,
 					usePopupEasyClose: false,
-					usePopupNav: true,
+					usePopupNav: false,
 					windowMargin: (breakpoints.active('<=small') ? 0 : 50)
 				});
 
