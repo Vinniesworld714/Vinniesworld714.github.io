@@ -105,7 +105,7 @@
 					selector: '.work-item a.image',
 					usePopupCaption: false,
 					usePopupDefaultStyling: false,
-					usePopupEasyClose: false,
+					usePopupEasyClose: true,
 					usePopupNav: false,
 					windowMargin: (breakpoints.active('<=small') ? 0 : 50)
 				});
